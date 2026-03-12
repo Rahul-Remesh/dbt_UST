@@ -5,4 +5,5 @@ sources:
     tables:
       - name: nations
       - name: regions
+      - name: suppliers
 
